@@ -8,6 +8,8 @@ BEM methodology
 
 AOS library for animations 
 
+--------------------------------------------------
+
 Hello, this is my landing page about bicycles.
 
 I like riding bicycles in life, so I also turned my interest from life into code.
