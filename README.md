@@ -1,7 +1,11 @@
 Technologies that I used:
+
 HTML
+
 SCCS
+
 BEM methodology
+
 AOS library for animations 
 
 Hello, this is my landing page about bicycles.
